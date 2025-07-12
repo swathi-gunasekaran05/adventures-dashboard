@@ -18,3 +18,6 @@ This Power BI dashboard provides insights into an adventure company’s sales an
 - Microsoft Power BI
 - Power Query
 - DAX
+## 🖼️ Dashboard Preview
+
+![Dashboard Preview](screenshot.png)
