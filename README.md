@@ -1,76 +1,104 @@
-# 📊 Power BI - Adventures Dashboard
+# 🧭 Power BI Adventures Dashboard
 
-This Power BI dashboard provides insights into an adventure company’s **sales** and **operations** data.
+Welcome to the **Power BI Adventures Dashboard**, a professional and interactive report built using Power BI.  
+This dashboard provides deep insights into the sales, customer trends, and performance of an adventure gear company using real-world-inspired data.
 
----
-
-## ✨ Key Features
-
-- 📈 Total Sales and Profit by Region  
-- 📅 Monthly Revenue Trends  
-- 📊 Category-wise Performance  
-- 🎯 Interactive Filters (Region, Product, Date)
+Designed to highlight business intelligence skills — from data cleaning to visualization — this project showcases my ability to turn raw data into compelling insights.
 
 ---
 
-## 📁 File Included
+## 🌟 Key Features
 
-- `adventures.pbix` – Main Power BI dashboard file
-
----
-
-## 💻 Built With
-
-- Microsoft Power BI  
-- Power Query  
-- DAX
+- 📍 Sales & Profit Analysis by Region and Product Category  
+- 📈 Monthly Revenue Trends and Year-over-Year Comparison  
+- 👥 Customer Segmentation & Insights  
+- 🌍 Geo-based Sales Distribution Map  
+- 🔄 Interactive Filters (Region, Product, Customer, Date)
 
 ---
 
-## 🖼️ Dashboard Preview
+## 📸 Dashboard Previews
 
-> 📸 Below are key visual snapshots from the dashboard:
-
-## **Customer page**
-
+### 🧍 Customer Overview
 ![Customer](Customer.png)
 
-## **Map view**
+### 📈 Executive Summary
+![Executive Dashboard](screenshot.png)
 
+### 🌍 Sales by Region (Map View)
 ![Map](Map.png)
 
-## **Product Page**
-
+### 📦 Product Category Performance
 ![Product](Product.png)
 
-## **Table Relationship**
-
+### 🔗 Data Model View
 ![Relationship](Relationship.png)
 
----
-
-
-## 📥 Download Dashboard
-
-To explore the dashboard yourself in Power BI Desktop, download the `.pbix` file:
-
-👉 [Download adventures.pbix](https://github.com/swathi-gunasekaran05/adventures-dashboard/raw/main/adventures.pbix)
-
-Once downloaded, open it in Microsoft Power BI Desktop and explore all the visuals, filters, and KPIs.
-
+> ✅ All visuals were created in Microsoft Power BI using cleaned and transformed data.
 
 ---
 
-## 📌 Note
+## 💾 How to Download & Use the Dashboard
 
-GitHub does **not preview `.pbix` files** directly in the browser.
+Follow these steps to download and explore the `.pbix` dashboard file:
 
-To explore this dashboard:
+### 🔽 Step 1: Download the Dashboard File
 
-- 👉 [Click here to download the `adventures.pbix` file](https://github.com/swathi-gunasekaran05/adventures-dashboard/raw/main/adventures.pbix)
-- Open the file in **Power BI Desktop**
-- Or view the screenshots above for a quick visual overview
+- Go to this repository: [swathi-gunasekaran05/adventures-dashboard](https://github.com/swathi-gunasekaran05/adventures-dashboard)
+- Click the file named **`adventures.pbix`**
+- On the top-right corner, click the **`Download`** button (you’ll see a **“Download raw file”** or **“Download”** option)
+
+> 💡 You can also download the entire project by clicking the green **`Code`** button → **`Download ZIP`** → Extract it.
 
 ---
 
-⭐ Star the repo if you find it helpful!
+### 💻 Step 2: Open in Power BI Desktop
+
+- Install **[Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/)** if you haven’t already (it’s free)
+- Open **Power BI Desktop**
+- Click `File` → `Open` → Select the downloaded `adventures.pbix` file
+
+---
+
+### 🔍 Step 3: Explore the Dashboard
+
+- Use the filters (Region, Date, Product, Customer) to slice the data
+- Hover over visuals for tooltips
+- Review KPIs, category performance, map visuals, and trends
+
+> 🚫 No external data connections required. Everything is self-contained!
+
+---
+
+## 🧠 What You’ll Learn from This Dashboard
+
+- Identify top-performing **regions and categories**
+- Track **revenue growth** and seasonal patterns
+- Understand **customer purchasing behavior**
+- Analyze **monthly performance and profitability**
+- View a **clean Power BI data model**
+
+---
+
+## 🛠️ Tools & Technologies Used
+
+| Tool / Language   | Purpose                         |
+|-------------------|----------------------------------|
+| **Power BI Desktop** | Dashboard creation & visualizations |
+| **Power Query**      | Data cleaning & transformation |
+| **DAX** (Data Analysis Expressions) | KPIs, calculated fields, dynamic visuals |
+| `.pbix` file        | Contains complete interactive report |
+
+---
+
+## 📁 Project Structure
+
+```bash
+Powerbi_Adveture_works/
+├── adventures.pbix         # Power BI Dashboard file
+├── README.md               # Project documentation
+├── screenshot.png          # Executive dashboard image
+├── Customer.png            # Customer overview
+├── Map.png                 # Regional map view
+├── Product.png             # Product category visual
+└── Relationship.png        # Data model diagram
