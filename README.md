@@ -31,10 +31,17 @@ This Power BI dashboard provides insights into an adventure company’s **sales*
 
 > 📸 Below are key visual snapshots from the dashboard:
 
+## Customer page
+
 ![Customer](Customer.png)
-![Exec Dashboard](Exec dashboard.png)
+
+**Map view**
 ![Map](Map.png)
+
+**Product Page**
 ![Product](Product.png)
+
+**Table Relationship**
 ![Relationship](Relationship.png)
 
 ---
